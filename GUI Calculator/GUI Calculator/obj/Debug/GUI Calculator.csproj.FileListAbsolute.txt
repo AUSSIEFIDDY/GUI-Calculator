@@ -1,0 +1,352 @@
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csprojAssemblyReference.cache
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Form1.resources
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+D:\Dip Tues\Programming\Learning Content\Activities\Session 7\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\netstandard.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.AppContext.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Concurrent.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.NonGeneric.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Specialized.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Console.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Data.Common.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Debug.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Process.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tools.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Drawing.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Dynamic.Runtime.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Calendars.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Extensions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Pipes.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Expressions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Parallel.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Queryable.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Http.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NameResolution.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NetworkInformation.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Ping.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Requests.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Security.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Sockets.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ObjectModel.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Extensions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Reader.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.ResourceManager.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Writer.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Extensions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Handles.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Numerics.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Claims.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Principal.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.SecureString.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.RegularExpressions.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Overlapped.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Thread.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.ThreadPool.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Timer.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ValueTuple.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XDocument.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlDocument.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csprojAssemblyReference.cache
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe.config
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.CalcForm.resources
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CopyComplete
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\netstandard.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.AppContext.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Concurrent.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.NonGeneric.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Specialized.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Console.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Data.Common.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Debug.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Process.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tools.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Drawing.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Dynamic.Runtime.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Calendars.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Extensions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Pipes.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Expressions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Parallel.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Queryable.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Http.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NameResolution.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NetworkInformation.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Ping.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Requests.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Security.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Sockets.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ObjectModel.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Extensions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Reader.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.ResourceManager.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Writer.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Extensions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Handles.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Numerics.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Claims.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Principal.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Security.SecureString.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Text.RegularExpressions.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Overlapped.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Thread.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.ThreadPool.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Timer.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.ValueTuple.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XDocument.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlDocument.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csprojAssemblyReference.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe.config
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.CalcForm.resources
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CopyComplete
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\netstandard.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.AppContext.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Concurrent.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.NonGeneric.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Specialized.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Console.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Data.Common.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Debug.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Process.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tools.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Drawing.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Dynamic.Runtime.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Calendars.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Pipes.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Expressions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Parallel.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Queryable.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Http.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NameResolution.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NetworkInformation.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Ping.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Requests.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Security.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Sockets.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ObjectModel.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Reader.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.ResourceManager.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Writer.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Handles.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Numerics.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Claims.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Principal.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.SecureString.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.RegularExpressions.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Overlapped.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Thread.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.ThreadPool.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Timer.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ValueTuple.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XDocument.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlDocument.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.dll
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.pdb
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.pdb
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.pdb
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csprojAssemblyReference.cache
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe.config
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.CalcForm.resources
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CopyComplete
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb

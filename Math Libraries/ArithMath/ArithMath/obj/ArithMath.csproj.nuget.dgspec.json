@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Home Programming Projects\\GitHub\\GUI Calculator\\GUI-Calculator\\Math Libraries\\ArithMath\\ArithMath\\ArithMath.csproj": {}
+  },
+  "projects": {
+    "Z:\\Home Programming Projects\\GitHub\\GUI Calculator\\GUI-Calculator\\Math Libraries\\ArithMath\\ArithMath\\ArithMath.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Home Programming Projects\\GitHub\\GUI Calculator\\GUI-Calculator\\Math Libraries\\ArithMath\\ArithMath\\ArithMath.csproj",
+        "projectName": "ArithMath",
+        "projectPath": "Z:\\Home Programming Projects\\GitHub\\GUI Calculator\\GUI-Calculator\\Math Libraries\\ArithMath\\ArithMath\\ArithMath.csproj",
+        "packagesPath": "C:\\Users\\monti\\.nuget\\packages\\",
+        "outputPath": "Z:\\Home Programming Projects\\GitHub\\GUI Calculator\\GUI-Calculator\\Math Libraries\\ArithMath\\ArithMath\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

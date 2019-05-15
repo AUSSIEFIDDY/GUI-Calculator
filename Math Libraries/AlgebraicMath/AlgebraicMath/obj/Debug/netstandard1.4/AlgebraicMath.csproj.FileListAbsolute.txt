@@ -1,0 +1,26 @@
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.deps.json
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csprojAssemblyReference.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csproj.CoreCompileInputs.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.AssemblyInfoInputs.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.AssemblyInfo.cs
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.deps.json
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.pdb
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csprojAssemblyReference.cache
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csproj.CoreCompileInputs.cache
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.AssemblyInfo.cs
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.dll
+D:\Dip Tues\Programming\Assessments\AT1\AT1.6\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.deps.json
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\bin\Debug\netstandard1.4\AlgebraicMath.pdb
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csprojAssemblyReference.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.csproj.CoreCompileInputs.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.AssemblyInfoInputs.cache
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.AssemblyInfo.cs
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.dll
+Z:\TAFE Stuff\Diploma of Software Development\Programming III\Assessments\AT1\AT1.7\Math Libraries\AlgebraicMath\AlgebraicMath\obj\Debug\netstandard1.4\AlgebraicMath.pdb
