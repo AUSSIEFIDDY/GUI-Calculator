@@ -35,59 +35,117 @@ namespace GUI_Calculator
         bool divideButtonClicked = false;
         bool multiplyButtonClicked = false;
 
+        //KeyPress Event to support keyboard calculations
+        private void CalcForm_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //if any number key get pressed, perform the relevant click
+            if (e.KeyChar == (char)Keys.D0)
+                Btn0.PerformClick();
+            if (e.KeyChar == (char)Keys.D1)
+                Btn1.PerformClick();
+            if (e.KeyChar == (char)Keys.D2)
+                Btn2.PerformClick();
+            if (e.KeyChar == (char)Keys.D3)
+                Btn3.PerformClick();
+            if (e.KeyChar == (char)Keys.D4)
+                Btn4.PerformClick();
+            if (e.KeyChar == (char)Keys.D5)
+                Btn5.PerformClick();
+            if (e.KeyChar == (char)Keys.D6)
+                Btn6.PerformClick();
+            if (e.KeyChar == (char)Keys.D7)
+                Btn7.PerformClick();
+            if (e.KeyChar == (char)Keys.D8)
+                Btn8.PerformClick();
+            if (e.KeyChar == (char)Keys.D9)
+                Btn9.PerformClick();
+
+            //if any function keys get pressed perform the relevant click
+            if (e.KeyChar == '+')
+                BtnPlus.PerformClick();
+            if (e.KeyChar == '-')
+                BtnMinus.PerformClick();
+            if (e.KeyChar == '/')
+                BtnDivide.PerformClick();
+            if (e.KeyChar == '*')
+                BtnMult.PerformClick();
+            if (e.KeyChar == (char)Keys.Return)
+                BtnEquals.PerformClick();
+
+            //if the backspace key gets pressed, remove the last char
+            if (e.KeyChar == (char)Keys.Back)
+            {
+                if (txtDisplay.Text != "") 
+                    txtDisplay.Text = txtDisplay.Text.Substring(0, 
+                        txtDisplay.Text.Count() - 1);
+            }
+        }
+        
         //Button Click methods that add the relevant number into 
         //the Display when the user clicks a number. 
         private void Btn0_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn0.Text;
+            txtDisplay.Focus();
         }
         private void Btn1_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn1.Text;
+            txtDisplay.Focus();
         }
         private void Btn2_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn2.Text;
+            txtDisplay.Focus();
         }
         private void Btn3_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn3.Text;
+            txtDisplay.Focus();
         }
         private void Btn4_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn4.Text;
+            txtDisplay.Focus();
         }
         private void Btn5_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn5.Text;
+            txtDisplay.Focus();
         }
         private void Btn6_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn6.Text;
+            txtDisplay.Focus();
         }
         private void Btn7_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn7.Text;
+            txtDisplay.Focus();
         }
         private void Btn8_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn8.Text;
+            txtDisplay.Focus();
         }
         private void Btn9_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += Btn9.Text;
+            txtDisplay.Focus();
         }
 
-        //Button Click clear method that clears the Display.
+        //Button Click clear method that clears the Display and Overview.
         private void BtnClear_Click(object sender, EventArgs e)
         {
             txtDisplay.Clear();
+            txtDisplay.Focus();
         }
 
         //Button Click method to add a decimal point to the Display.
         private void BtnDot_Click(object sender, EventArgs e)
         {
             txtDisplay.Text += BtnDot.Text;
+            txtDisplay.Focus();
         }
 
         //Button Click method that is used in conjuction with Equals 
@@ -99,13 +157,17 @@ namespace GUI_Calculator
                 total1 += double.Parse(txtDisplay.Text);
             }
             else
+            {
+                txtDisplay.Focus();
                 return;
+            }
             txtDisplay.Clear();
-
+            
             plusButtonClicked = true;
             minusButtonClicked = false;
             divideButtonClicked = false;
             multiplyButtonClicked = false;
+            txtDisplay.Focus();
         }
 
         //Button Click method that is used in conjuction with Equals 
@@ -118,13 +180,18 @@ namespace GUI_Calculator
                 total1 += double.Parse(txtDisplay.Text);
             }
             else
+            {
+                txtDisplay.Text = "-";
+                txtDisplay.Focus();
                 return;
+            }
             txtDisplay.Clear();
 
             plusButtonClicked = false;
             minusButtonClicked = true;
             divideButtonClicked = false;
             multiplyButtonClicked = false;
+            txtDisplay.Focus();
         }
 
         //Button Click method that is used in conjuction with Equals 
@@ -136,13 +203,17 @@ namespace GUI_Calculator
                 total1 += double.Parse(txtDisplay.Text);
             }
             else
+            {
+                txtDisplay.Focus();
                 return;
+            }
             txtDisplay.Clear();
 
             plusButtonClicked = false;
             minusButtonClicked = false;
             divideButtonClicked = true;
             multiplyButtonClicked = false;
+            txtDisplay.Focus();
         }
 
         //Button Click method that is used in conjuction with Equals 
@@ -154,7 +225,11 @@ namespace GUI_Calculator
                 total1 += double.Parse(txtDisplay.Text);
             }
             else
+            {
+                txtDisplay.Focus();
                 return;
+            }
+                
             txtDisplay.Clear();
 
             plusButtonClicked = false;
@@ -167,6 +242,15 @@ namespace GUI_Calculator
         //of a calculation and display it on the Display.
         private void BtnEqual_Click(object sender, EventArgs e)
         {
+            if (txtDisplay.Text == "-")
+            {
+                MessageBox.Show("Invalid Calculation",
+                    "Error Message");
+                ResetValues();
+                txtDisplay.Focus();
+                return;
+            }
+
             if (plusButtonClicked == true
                 && txtDisplay.Text != "")
             {
@@ -198,10 +282,12 @@ namespace GUI_Calculator
                 MessageBox.Show("Cannot divide by zero.",
                     "Error Message");
                 ResetValues();
+                txtDisplay.Focus();
                 return;
             }
-            txtDisplay.Text = total2.ToString();
+            txtDisplay.Text = total2 == 0 ? txtDisplay.Text : total2.ToString();
             ResetValues();
+            txtDisplay.Focus();
         }
 
         //Button Click method that returns the Square Root of a 
@@ -228,6 +314,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //Button Click method that returns the Cube Root of a number 
@@ -254,6 +341,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //Button Click method that returns the Inverse of a number 
@@ -280,6 +368,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //Button Click method that returns the Tangent of a number 
@@ -306,6 +395,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //Button Clickmethod that returns the Sine of a number to 
@@ -323,6 +413,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //Button Click method that returns the Cosine of a number 
@@ -340,6 +431,7 @@ namespace GUI_Calculator
                 MessageBox.Show("Please enter a number.",
                     "Error Message");
             }
+            txtDisplay.Focus();
         }
 
         //ResetValues method to reset all of the calculation values

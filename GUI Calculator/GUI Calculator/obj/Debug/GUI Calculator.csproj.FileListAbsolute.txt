@@ -350,3 +350,117 @@ Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator
 Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CopyComplete
 Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
 Z:\Home Programming Projects\GitHub\GUI Calculator\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\netstandard.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.AppContext.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Concurrent.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.NonGeneric.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Collections.Specialized.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Console.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Data.Common.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Debug.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Process.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tools.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Drawing.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Dynamic.Runtime.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Calendars.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Globalization.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.Pipes.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Expressions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Parallel.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Linq.Queryable.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Http.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NameResolution.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.NetworkInformation.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Ping.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Requests.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Security.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.Sockets.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Net.WebSockets.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ObjectModel.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Reflection.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Reader.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.ResourceManager.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Resources.Writer.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Handles.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Numerics.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Claims.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.Principal.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Security.SecureString.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Text.RegularExpressions.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Overlapped.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Thread.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.ThreadPool.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Threading.Timer.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.ValueTuple.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XDocument.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlDocument.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.dll
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\AlgebraicMath.pdb
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\ArithMath.pdb
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\bin\Debug\TrigMath.pdb
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csprojAssemblyReference.cache
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe.config
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.CalcForm.resources
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CopyComplete
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+Z:\Home Programming Projects\GitHub\GUI-Calculator\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
